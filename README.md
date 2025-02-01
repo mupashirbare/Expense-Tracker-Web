@@ -46,4 +46,4 @@ Other: (Mention any other libraries or tools used, e.g., Axios, Moment.js, Chart
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)[your-username]/expense-tracker.git
+   git clone https://github.com/mupashirbare/Expense-Tracker-Web.git
