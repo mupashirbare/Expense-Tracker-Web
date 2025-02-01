@@ -16,11 +16,8 @@ Project Structure
 
 Screenshots(Optional)
 
-Future Enhancements
 
-Contributing
 
-License
 
 Introduction
 Keeping track of personal finances can be cumbersome. This expense tracker application tries to alleviate the hassle using a simple yet effective interface to capture and study spending patterns. It would nudge someone budgeting to do better and understand where the person's money is going to.
@@ -33,3 +30,20 @@ View Expenses: All the expenses made are listed and can be sorted by date or any
 Edit Expense: Expenses can be edited for any mistakes made or updated information.
 
 Delete Expense: Unwanted expenses that are irrelevant can be deleted.
+Categorization:** Expenses can be categorized (e.g., Food, Transportation, Entertainment) for better analysis.
+Filtering/Searching:**  Expenses can be filtered by date range, category, or description. (Optional - Implement as needed)
+Data Visualization:** Charts or graphs to visualize spending patterns. (Optional - Implement as needed)
+User Authentication:** Secure user accounts to protect expense data. (Optional - Implement as needed)
+
+## Technologies Used
+
+Frontend:React, HTML, CSS, JavaScript
+Backend: Node.js, Express.js
+Database: MongoDB
+Other: (Mention any other libraries or tools used, e.g., Axios, Moment.js, Chart.js)
+
+## Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/](https://github.com/)[your-username]/expense-tracker.git
